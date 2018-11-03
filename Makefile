@@ -6,4 +6,4 @@ shadow:
 	yarn run shadow-cljs watch script
 
 expo:
-	expo start -i
+	yarn run expo start -i

@@ -9,4 +9,4 @@
                           :justify-content 'center}}
                   [:> (.-Text react-native) 
                  {:on-press #(js/alert "From clojurescript")}
-                  "cljs, shadow, expo and hot reloading"]])))
+                  "cljs, shadow, expo and hot reloading. try changing this text"]])))
