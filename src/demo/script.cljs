@@ -9,4 +9,4 @@
                           :justify-content 'center}}
                   [:> (.-Text react-native) 
                  {:on-press #(js/alert "From clojurescript")}
-                  "clojurescript & xx~~!!999!!"]])))
+                  "cljs, shadow, expo and hot reloading"]])))
