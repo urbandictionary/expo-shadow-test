@@ -1,0 +1,10 @@
+{:source-paths
+ ["src" ]
+
+ :dependencies
+ []
+
+ :builds {:script
+            {:id        :script
+             :target    :npm-module
+             :output-dir "shadow"}}}
