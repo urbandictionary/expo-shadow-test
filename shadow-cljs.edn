@@ -2,7 +2,7 @@
  ["src" ]
 
  :dependencies
- []
+ [[reagent "0.8.1" :exclusions [cljsjs/react]]]
 
  :builds {:script
             {:id        :script
